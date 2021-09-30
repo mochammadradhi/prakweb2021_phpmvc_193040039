@@ -23,6 +23,9 @@
         <li class="nav-item">
           <a class="nav-link" href="<?= BASEURL; ?>about">About</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="<?= BASEURL; ?>mahasiswa">Daftar Mahasiswa</a>
+        </li>
         
       </ul>
       <form class="d-flex">

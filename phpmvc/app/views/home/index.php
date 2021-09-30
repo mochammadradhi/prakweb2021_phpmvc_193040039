@@ -1,7 +1,5 @@
 
 
-
-
 <div class="container mt-4">
 <div class="jumbotron">
 <figure class="text-center">
@@ -9,7 +7,7 @@
     <h3>Hello. Welcome to my Website</h3>
   </blockquote>
   <figcaption class="blockquote-footer">
-    Radhi <cite title="Source Title">Student Pasundan University</cite>
+    <?= $data['nama']; ?> <cite title="Source Title">Student Pasundan University</cite>
   </figcaption>
 </figure> 
 <hr class="my-4">
