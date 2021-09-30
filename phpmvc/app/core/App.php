@@ -29,7 +29,7 @@ Class App{
         //cek params
         if(!empty($url)){
             $this->params = array_values($url);
-            var_dump($url);
+            
         }
 
         //untuk menjalakanan controller dan method untuk di kirim ke params
